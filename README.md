@@ -2,7 +2,7 @@ Developed with Unreal Engine 4
 
 # Top-Down Fighter Game
 
-Welcome to our indie game development project! This is a top-down fighter game designed for fun local couchplay multiplayer experiences. The project served as a learning journey into Unreal Engine, with a strong focus on Blueprints, which comprised 90% of the development.
+This is a top-down fighter game designed for a fun local couchplay multiplayer experience. The project served as a learning journey into Unreal Engine, with a strong focus on Blueprints, which comprised 90% of the development.
 
 ## Key Features
 - **Local Multiplayer**: Enjoy with friends in an engaging couchplay setup.
@@ -22,4 +22,4 @@ Below are some glimpses of the game and character designs.
 
 ![GauntletCharacter](https://github.com/martijndejong/ProjectBobi/assets/12080489/8222e2b3-a67d-4a66-b475-fe6ac57b01bf)
 ![game_allcharacters](https://github.com/martijndejong/ProjectBobi/assets/12080489/d092a34c-774a-45d9-a842-9c367afadeb7)
-*A showcase of one of the unique character designs*
+*Showcase the unique character designs*
