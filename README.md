@@ -2,7 +2,7 @@ Developed with Unreal Engine 4
 
 # Top-Down Fighter Game
 
-Welcome to our indie game development project! This is a top-down fighter game designed for fun local couchplay multiplayer experiences. The project served as a learning journey into Unreal Engine, with a strong focus on Blueprints, which comprised 99% of the development.
+Welcome to our indie game development project! This is a top-down fighter game designed for fun local couchplay multiplayer experiences. The project served as a learning journey into Unreal Engine, with a strong focus on Blueprints, which comprised 90% of the development.
 
 ## Key Features
 - **Local Multiplayer**: Enjoy with friends in an engaging couchplay setup.
