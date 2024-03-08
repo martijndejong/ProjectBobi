@@ -7,7 +7,6 @@ Welcome to our indie game development project! This is a top-down fighter game d
 ## Key Features
 - **Local Multiplayer**: Enjoy with friends in an engaging couchplay setup.
 - **Original Content**: All art, music, and 3D models are original creations.
-- **Built with Unreal Engine**: Developed primarily using Blueprints for rapid prototyping and gameplay iteration.
 - **3D Art**: Crafted with care in Blender, providing unique visuals and character designs.
 
 ## Learning Journey
@@ -18,7 +17,9 @@ Below are some glimpses of the game and character designs.
 
 
 ![game_screenshot](https://github.com/martijndejong/ProjectBobi/assets/12080489/9ca349b7-888e-465c-a637-b24215552333)
-*Intense battle scene from the game*
+![game_screenshot2](https://github.com/martijndejong/ProjectBobi/assets/12080489/01f0182d-2991-4f23-ab35-0f37d85eb29a)
+*Gameplay screenshots*
 
 ![GauntletCharacter](https://github.com/martijndejong/ProjectBobi/assets/12080489/8222e2b3-a67d-4a66-b475-fe6ac57b01bf)
+![game_allcharacters](https://github.com/martijndejong/ProjectBobi/assets/12080489/d092a34c-774a-45d9-a842-9c367afadeb7)
 *A showcase of one of the unique character designs*
