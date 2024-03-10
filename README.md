@@ -22,4 +22,4 @@ Below are some glimpses of the game and character designs.
 
 ![GauntletCharacter](https://github.com/martijndejong/ProjectBobi/assets/12080489/8222e2b3-a67d-4a66-b475-fe6ac57b01bf)
 ![game_allcharacters](https://github.com/martijndejong/ProjectBobi/assets/12080489/d092a34c-774a-45d9-a842-9c367afadeb7)
-*Showcase the unique character designs*
+*Unique character design showcase*
