@@ -6,8 +6,8 @@ This is a top-down fighter game designed for a fun local couchplay multiplayer e
 
 ## Key Features
 - **Local Multiplayer**: Enjoy with friends in an engaging couchplay setup.
-- **Original Content**: All art, music, and 3D models are original creations.
-- **3D Art**: Crafted with care in Blender, providing unique visuals and character designs.
+- **Original Content**: All art, music, and character designs are original creations.
+- **3D Art**: Crafted with care in Blender, providing unique visuals and designs.
 
 ## Learning Journey
 This project was an exploration into the capabilities of Unreal Engine, focusing on mastering Blueprints, real-time rendering, physics simulations, particle systems, animation, and understanding the game development pipeline from concept to playable game.
