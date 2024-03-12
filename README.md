@@ -10,7 +10,7 @@ This is a top-down fighter game designed for a fun local couchplay multiplayer e
 - **3D Art**: Crafted with care in Blender, providing unique visuals and character designs.
 
 ## Learning Journey
-This project was an exploration into the capabilities of Unreal Engine, focusing on mastering Blueprints and understanding the game development pipeline from concept to playable game. It was a journey filled with challenges, learning, and most importantly, fun.
+This project was an exploration into the capabilities of Unreal Engine, focusing on mastering Blueprints, real-time rendering, physics simulations, particle systems, animation, and understanding the game development pipeline from concept to playable game.
 
 ## Screenshots
 Below are some glimpses of the game and character designs.
